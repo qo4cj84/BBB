@@ -22,6 +22,7 @@ body {
 	font-family: 'Lato', Arial, sans-serif;
 	background: #2ecc71;
 	color: white;
+    font-size: 3em;
 }
 
 .clearfix:before,
@@ -35,7 +36,7 @@ body {
 }
 
 a {
-	color: rgba(255,255,255,0.7);
+	color: rgba(0,255,255,0.7);
 	text-decoration: none;
 	outline: none;
 }

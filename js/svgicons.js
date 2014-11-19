@@ -85,7 +85,7 @@
 		speed : 200,
 		easing : mina.linear,
 		evtoggle : 'click', // click || mouseover
-		size : { w : 68, h : 68 },
+		size : { w : 100, h : 100 },
 		onLoad : function() { return false; },
 		onToggle : function() { return false; }
 	};
